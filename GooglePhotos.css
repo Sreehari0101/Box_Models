@@ -1,0 +1,61 @@
+.box{
+    width: 35%;
+    border-radius: 15px;
+    margin:200px auto;
+    border: 1px solid lightgray;
+  
+    }
+
+ .top{
+        display: flex;
+}
+
+
+.card-img{
+    width: 100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.sub{
+    display:flex;
+    height:20px;
+    gap: 10px;
+}
+
+.lock-img{
+    width: 20px;
+    height: 20px;
+}
+
+h5{
+    color: #717274;
+    margin-top: 0%;
+}
+
+h3{
+    font-weight: 200;
+}
+
+.content{
+    margin: 25px;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p{
+    color: #717274;
+
+}
+
+.btn{
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 14px 35px;
+    font-size: 19px;
+    border-radius: 8px;
+    font-weight: bold;
+    color: #3280ec;
+    margin: 25px;
+}
